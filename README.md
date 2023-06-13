@@ -1,4 +1,4 @@
- [![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/908/719/desktop-wallpaper-mockingjay-the-hunger-games-1366x768-games-1366x768.jpg)
+![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/908/719/desktop-wallpaper-mockingjay-the-hunger-games-1366x768-games-1366x768.jpg)
 <h1 align="center">Hi there buddy I'am @BadMaker</h1>
 <h3 align="center">👋🏻👊🏻 I'am from the eartlhy I'am a Student and Game Developer 🎮 ___________________________________</h3>
 
